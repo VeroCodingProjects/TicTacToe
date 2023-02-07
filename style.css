@@ -1,0 +1,24 @@
+table, tr, td {
+    border:4px solid black;
+    text-align: center;
+}
+
+td {
+    width: 100px;
+    height: 100px;
+    font-size:xx-large
+}
+
+.center {
+    margin-left:auto; 
+    margin-right:auto;
+    margin-top: 2cm;
+}
+
+form {
+    font-size: xx-large;
+}
+
+button {
+    margin-top: 1cm;
+}
